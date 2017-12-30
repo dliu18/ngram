@@ -24,7 +24,6 @@ def detect(headline, keywords):
 	return False 
 
 def save(keywords):
-	print(", ".join(keywords))
 	sid = SentimentIntensityAnalyzer()
 
 	f = open("all_headlines.json", "r")
@@ -118,7 +117,7 @@ def save(keywords):
 	# plt.plot(x,y)
 	# plt.legend()
 	# plt.show() 
-
+	print "Finished"
 	return (x, y, most_negative, most_positive, majorYears)
 app = Flask(__name__)
 
@@ -131,12 +130,14 @@ def hello():
 	keywords.insert(0, "Year")
 	data = str(keywords) + ",\n"
 	x = resultTuple[0]
+	print x 
 	y = resultTuple[1]
 	for i in range(len(x)):
 		temp = [str(x[i])]
 		for entry in y[i]:
 			temp.append(entry)
 		data += (str(temp) + ", \n")
+	print data
 
 	f = open("chart1.html", "r")
 	html1 = f.read()
@@ -145,6 +146,7 @@ def hello():
 	f = open("chart2.html", "r")
 	html2 = f.read()
 	f.close()
+	print "Read Templates"
 
 	positive_table = " <div class=\"six columns\"> <h3> Most Positive Headlines </h3>"
 	positive_table += "<table style=\"width: 100%\"> <tr> <th> Year </th> <th> Score </th> <th> Link </th> </tr>"
@@ -157,6 +159,7 @@ def hello():
 		link = "http://theprince.princeton.edu/princetonperiodicals/cgi-bin/princetonperiodicals?a=d&d=Princetonian" + year.strip(" ") + "-01&e=-------en-20--1--txt-txIN-------"
 		positive_table += "<tr> <th>" + year[0:4] + "</th> <th>" + score + "</th> <th> <a href='" + link + "'> " + title + "</a> </th> </tr>"
 	positive_table += "</table> </div>"
+	print "Made positivity table"
 
 	negative_table = " <div class=\"six columns\"> <h3> Most Negative Headlines </h3>"
 	negative_table += "<table style=\"width: 100%\"> <tr> <th> Year </th> <th> Score </th> <th> Link </th> </tr>"
@@ -169,6 +172,7 @@ def hello():
 		link = "http://theprince.princeton.edu/princetonperiodicals/cgi-bin/princetonperiodicals?a=d&d=Princetonian" + year.strip(" ") + "-01&e=-------en-20--1--txt-txIN-------"
 		negative_table += "<tr> <th>" + year[0:4] + "</th> <th>" + score + "</th> <th> <a href='" + link + "'> " + title + "</a> </th> </tr>"
 	negative_table += "</table> </div>"
+	print "Made negativity table"
 
 	return html1 + data + html2 + positive_table + negative_table + "</div> </div> </body> </html>"
 
