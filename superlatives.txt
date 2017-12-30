@@ -1,0 +1,151 @@
+Most Negative Headlines
+19320324 	 contemporary comment fight, fight, fight! 0.802
+19811021 	 race relations: ignorance, insults, insensitivity 0.802
+19870220 	 dorfman criticizes chile's violence, condemns government repression 0.805
+19240228 	 lies, damn lies, and statistics 0.806
+19830405 	 sexual harassment: ignored, problems persist 0.81
+19960306 	 suspicious fire destroys restaurant's garage 0.81
+20030421 	 mistakes make capital punishment unacceptable 0.813
+19110930 	 defective gun kills and wounds 0.815
+19670921 	 disruptive conflict: the necessary evil 0.818
+19900410 	 sexual abuse policy defines assault, harassment offenses 0.824
+20010220 	 suspects in dartmouth murders arrested 0.826
+19080608 	 graduate-undergraduate gun shoot. 0.828
+19740515 	 jadwin bomb threat suspect denies involvement in scare 0.831
+19930324 	 students complain about weak fire alarms 0.832
+19751021 	 letters blaming the murder victim? 0.833
+19910222 	 anguished thoughts on a tragic suicide 0.837
+19750221 	 serious difficulties confront orchestra 0.839
+19800118 	 conspiracy feared in kostelanetz death 0.84
+19930429 	 confronting a modern-day crisis 0.851
+19120321 	 murder to revenge burglar's death 0.857
+19030429 	 yesterday's gun shoot postponed. 0.868
+19071115 	 princeton-yale gun shoot postponed. 0.868
+19811007 	 assassination adds alarm, uncertainty 0.897
+19121212 	 arrest in smuggling conspiracy 0.899
+19120120 	 sentenced murderer attempts suicide 0.911
+
+
+Most Positive Headlines
+19780519 	 nine pranksters share award for best joke 0.801
+19800728 	 libertarians champion free enterprise system 0.806
+19910219 	 surprise: intelligent, pretty grad women 0.806
+20041022 	 cheerleading attracts brave souls only 0.806
+19621128 	 blaik prize winner: solid, articulate 0.813
+19720911 	 schier wins top scholarship prize 0.815
+19991028 	 respecting a daunting challenge 0.818
+19901218 	 editorials/opinions happy holidays! dear santa... 0.821
+19820916 	 colonial gains strength with increased support 0.839
+19090317 	 definite inter-club agreement. 0.841
+19790413 	 promotional wisdom: everybody loves a winner 0.845
+19630130 	 blah prize winner shows interest, excitement 0.847
+19121011 	 wilson greeted enthusiastically 0.851
+19291211 	 municipal improvement progress 0.853
+19330330 	 courageous councilmen commended 0.863
+19111219 	 heroism prevents greater casualties 0.884
+19901023 	 popular subjects stimulate intellect 0.885
+19700121 	 relaxed structure inspires innovation 0.897
+19710219 	 response sharing divine laughter 0.906
+
+
+Least Neutral Headlines
+19110310 	 a foolishly neglected opportunity 0.0
+20030312 	 protests undermine peaceful solutions 0.0
+19630130 	 blah prize winner shows interest, excitement 0.064
+19120120 	 sentenced murderer attempts suicide 0.089
+19770301 	 silverman condemns prison care 0.093
+19990226 	 racism, ignorance amid intelligence 0.093
+19710219 	 response sharing divine laughter 0.094
+19760402 	 academic pressure: no foolproof solution 0.097
+19030505 	 stutesman wins gun championship. 0.1
+19121212 	 arrest in smuggling conspiracy 0.101
+19700121 	 relaxed structure inspires innovation 0.103
+19811007 	 assassination adds alarm, uncertainty 0.103
+19190120 	 no championship wrestling award. 0.104
+19431015 	 accidental deaths top battle losses 0.106
+19631024 	 diamond attacks popular religion 0.11
+19110406 	 procession honors fire victims 0.111
+19130217 	 railroad dispute reaches crisis 0.111
+19701008 	 coed cheerleaders enjoy freedom, fun, bloody marys 0.112
+19050517 	 university championship gun shoot. 0.115
+19901023 	 popular subjects stimulate intellect 0.115
+19111219 	 heroism prevents greater casualties 0.116
+19080321 	 a difficult play well performed. 0.125
+19811214 	 bow wow wow: noble savages all 0.125
+19110316 	 prominent archaeologist murdered 0.13
+19030429 	 yesterday's gun shoot postponed. 0.132
+19071115 	 princeton-yale gun shoot postponed. 0.132
+19330330 	 courageous councilmen commended 0.137
+19120321 	 murder to revenge burglar's death 0.143
+19810403 	 the evil romance of assassination 0.144
+19140120 	 powerful offensive combination 0.147
+19291211 	 municipal improvement progress 0.147
+19121011 	 wilson greeted enthusiastically 0.149
+19930429 	 confronting a modern-day crisis 0.149
+19111011 	 contempt proceedings recommended 0.152
+19830926 	 war powers agreement won't ease tension 0.152
+19670615 	 strong golf squad gains tough wins 0.155
+19790413 	 promotional wisdom: everybody loves a winner 0.155
+19020523 	 university championship shoot. 0.159
+19090317 	 definite inter-club agreement. 0.159
+19800911 	 clayton lawsuit charges honor panel violations 0.159
+19800118 	 conspiracy feared in kostelanetz death 0.16
+19750221 	 serious difficulties confront orchestra 0.161
+19820916 	 colonial gains strength with increased support 0.161
+19910222 	 anguished thoughts on a tragic suicide 0.163
+19751021 	 letters blaming the murder victim? 0.167
+19930324 	 students complain about weak fire alarms 0.168
+19961112 	 tyson-holyfield fight: good vs. evil? 0.168
+19740515 	 jadwin bomb threat suspect denies involvement in scare 0.169
+20031022 	 attack on americans hurts peace 0.171
+19080608 	 graduate-undergraduate gun shoot. 0.172
+19120215 	 dynamite conspirators arrested 0.172
+19120920 	 murders wife and commits suicide 0.172
+19900427 	 assault survivor responds with gratitude 0.172
+20010220 	 suspects in dartmouth murders arrested 0.174
+19420121 	 "prince" missed best arguing points 0.175
+19760913 	 easy win leaves gridders unsatisfied 0.175
+19900410 	 sexual abuse policy defines assault, harassment offenses 0.176
+19750922 	 poor publicity hurts benefit auction 0.179
+19901218 	 editorials/opinions happy holidays! dear santa... 0.179
+19581105 	 'bad taste' kills humor magazine 0.18
+19641013 	 no one cares reconciliationists die 0.18
+19700223 	 the best offense: a good elbow 0.18
+20031209 	 stress, holidays cause seasonal depression 0.18
+19101107 	 express strike growing serious. 0.182
+19670921 	 disruptive conflict: the necessary evil 0.182
+19690505 	 charter bus entertains block party 0.182
+19991028 	 respecting a daunting challenge 0.182
+19110930 	 defective gun kills and wounds 0.185
+19520207 	 annual giving: solution to a crisis 0.185
+19720911 	 schier wins top scholarship prize 0.185
+19861110 	 radical chic: ignoring communism's brutality 0.185
+19621128 	 blaik prize winner: solid, articulate 0.187
+20030421 	 mistakes make capital punishment unacceptable 0.187
+19080515 	 freshmen win triangular gun shoot. 0.189
+19100421 	 philibin's resignation accepted. 0.189
+19110308 	 ballinger's resignation accepted 0.189
+19151110 	 tippetts' resignation accepted. 0.189
+19590331 	 all injured in accident improving 0.189
+19830405 	 sexual harassment: ignored, problems persist 0.19
+19850121 	 food poisoning strikes prospect house 0.19
+19960306 	 suspicious fire destroys restaurant's garage 0.19
+19650406 	 one dead, one hurt in holiday accidents 0.191
+19870413 	 band embarrassment a true party weekend 0.192
+19940915 	 'natural born killers' murders important social critique 0.192
+20040211 	 poor defense, lack of energy, careless mistakes doom tigers from start 0.193
+19240228 	 lies, damn lies, and statistics 0.194
+19570314 	 intime hurt by dearth of talent, interest 0.194
+19671129 	 potent offense, strong defense brighten tiger hockey hopes 0.194
+19800728 	 libertarians champion free enterprise system 0.194
+19910219 	 surprise: intelligent, pretty grad women 0.194
+20041022 	 cheerleading attracts brave souls only 0.194
+19870220 	 dorfman criticizes chile's violence, condemns government repression 0.195
+19830923 	 u-store bomb threat mystery solved employee arrested for creating scares 0.196
+19320324 	 contemporary comment fight, fight, fight! 0.198
+19811021 	 race relations: ignorance, insults, insensitivity 0.198
+19891025 	 conflict over date threatens festival 0.198
+19680524 	 poverty amidst riches town fights 'ghetto' problem 0.199
+19780519 	 nine pranksters share award for best joke 0.199
+
+

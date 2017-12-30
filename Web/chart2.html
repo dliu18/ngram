@@ -1,0 +1,23 @@
+        ]);
+
+        var options = {
+          title: 'N-Gram',
+          curveType: 'function',
+          legend: { position: 'bottom' }
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart'));
+
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <h1> Daily Princetonian Headline Analysis <h1> 
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <div id="curve_chart" style="height:500px; width:100%"></div>
+        </div>
+      </div>
+      <div class="row">
